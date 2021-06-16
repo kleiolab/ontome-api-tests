@@ -1,0 +1,15 @@
+{
+  "name": "@kleiolab/ontome-api-tests",
+  "version": "1.0.0",
+  "description": "Scripts to test ontome-api",
+  "main": "test-classes-basic-type.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "ramda": "^0.27.1"
+  }
+}
